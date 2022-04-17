@@ -1,4 +1,4 @@
-https://komarev.com/ghpvc/?username=evanswanyoike&style=flat-square
+![](https://komarev.com/ghpvc/?username=evanswanyoike&style=flat-square)
 
 ### Hi there 👋
 
