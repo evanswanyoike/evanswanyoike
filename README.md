@@ -5,7 +5,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://linkedin.com/in/evanswanyoike">
+  <a href="https://www.linkedin.com/in/evans-wanyoike-02247a166/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
@@ -33,7 +33,7 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/evanswanyoike)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evans-wanyoike-02247a166/)
 
 ### :hammer_and_wrench: Languages and Tools :
 
