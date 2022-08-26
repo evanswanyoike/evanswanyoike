@@ -23,11 +23,12 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=evanswanyoike&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-### Hi there 👋
+<!-- ### Hi there 👋
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+-->
 
 ### :woman_technologist: About Me :
 
